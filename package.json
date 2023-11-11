@@ -1,0 +1,17 @@
+{
+  "type":"module",
+  "name": "entrega-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "star": "node .",
+    "dev": "nodemon -e js ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
